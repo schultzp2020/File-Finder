@@ -1,0 +1,184 @@
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 2 - 1,DesignIt Team,dew-framework,22
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 3 - 2,DesignIt Team,Garage-V2,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 4 - 3,DesignIt Team,Garage Estimator Online,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 5 - 4,DesignIt Team,Deck (Back End),10
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 6 - 5,DesignIt Team,soc-service,8
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 7 - 6,DesignIt Team,estimator-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 8 - 7,DesignIt Team,Landscaping (Back End),7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 9 - 8,DesignIt Team,sweepstakes-admin-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 10 - 9,DesignIt Team,sweepstakes-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 11 - 10,DesignIt Team,Fence Online,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 12 - 11,DesignIt Team,Deck Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 13 - 12,DesignIt Team,Flooring Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 14 - 13,DesignIt Team,Landscaping Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 117.csv 
+Line: 15 - 14,DesignIt Team,Deck (Front End),3
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 80.csv 
+Line: 2 - 1,DesignIt Team,GIM,20
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\DesignIt CWE 80.csv 
+Line: 3 - 2,DesignIt Team,Sweepstakes,3
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 4 - 3,DesignIt Team,dew-framework,22
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 6 - 5,DesignIt Team,Garage Estimator Online,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 8 - 7,DesignIt Team,Garage-V2,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 10 - 9,DesignIt Team,Deck (Back End),10
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 11 - 10,DesignIt Team,soc-service,8
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 13 - 12,DesignIt Team,sweepstakes-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 14 - 13,DesignIt Team,estimator-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 15 - 14,DesignIt Team,sweepstakes-admin-service,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 16 - 15,DesignIt Team,Landscaping (Back End),7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 17 - 16,DesignIt Team,Fence Online,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 19 - 18,DesignIt Team,Flooring Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 20 - 19,DesignIt Team,Deck Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 21 - 20,DesignIt Team,Landscaping Estimator,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 117 per App 2020-08-11T1554.csv 
+Line: 22 - 21,DesignIt Team,Deck (Front End),3
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 80 per App 2020-08-11T1555.csv 
+Line: 6 - 5,DesignIt Team,GIM,20
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\Number of CWE ID 80 per App 2020-08-11T1555.csv 
+Line: 13 - 12,DesignIt Team,Sweepstakes,3
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 2 - 1,DesignIt Team,dew-framework,dew-framework-v2.war,22
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 3 - 2,DesignIt Team,Garage Estimator Online,garage-v2.war,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 4 - 3,DesignIt Team,Garage-V2,garage-v2.war,15
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 5 - 4,DesignIt Team,Deck (Back End),deck-v1.war,10
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 6 - 5,DesignIt Team,soc-service,soc-service.war,8
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 7 - 6,DesignIt Team,sweepstakes-admin-service,sweepstakes-admin-service.war,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 8 - 7,DesignIt Team,sweepstakes-service,sweepstakes-service.war,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 9 - 8,DesignIt Team,estimator-service,estimator-service.war,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 10 - 9,DesignIt Team,Fence Online,fence-v1.war,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 11 - 10,DesignIt Team,Landscaping (Back End),landscaping-v1.war,7
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 12 - 11,DesignIt Team,Landscaping Estimator,webservicelogging-0.1.3.jar,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 13 - 12,DesignIt Team,Deck Estimator,webservicelogging-0.1.3.jar,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 14 - 13,DesignIt Team,Flooring Estimator,webservicelogging-0.1.3.jar,4
+
+
+Path: C:\Users\pschultz\Downloads\8-XX-2020\CSV Folder\veracode_embed fact_findings 2020-08-12T1009.csv 
+Line: 15 - 14,DesignIt Team,Deck (Front End),DeckOnline_nodemodule_@dew.jsa,3
+
+
