@@ -12,8 +12,8 @@ def process(paths, keywords, exts, ignored_exts):
 
 
 def thread(folders, i):
-    with concurrent.futures.ThreadPoolExecutor as executor:
-        wf = open(f"Path {i} Results.txt", "w")
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        wf = open(f"Path {i} Results.txt", "a")
         results = []
 
         for folder_ in folders:
@@ -164,8 +164,6 @@ def read_path(i, path, keywords, exts, ignored_exts):
             folders_and_files.append(file_)
 
         folders[dir_name] = folders_and_files
-
-    wf = open(f"Path {i} Results.txt", "w")
 
     thread(folders, i)
     return f"\n{path} complete!"
